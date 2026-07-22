@@ -15,7 +15,7 @@
  * Public License along with this program. If not, see
  * <https://www.gnu.org/licenses/>.
  *
- * Source code (AGPL §13): https://github.com/KaspaSphereDAO/kaspanet
+ * Source code (AGPL §13): https://github.com/KaspaSphereDAO/kaspanet-internet
  *
  * Same protocol as kaspanet.exe: KNS naming on Kaspa -> ipfs:// pointer ->
  * content from IPFS gateways. Runs entirely client-side (KNS API is CORS-open).
