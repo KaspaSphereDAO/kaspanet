@@ -14,9 +14,9 @@ source under the same license.
 
 ---
 
-Kaspanet is a decentralized web: human-readable `.kas` names registered on the
+Kaspanet© Internet is a decentralized web: human-readable `.kas` names registered on the
 Kaspa blockDAG (via KNS) point to website content stored on IPFS. There is no
-central DNS, no central hosting, and no account required to browse.
+central DNS, no central hosting, and no account required.
 
 ## Components
 
