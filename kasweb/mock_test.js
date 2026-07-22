@@ -1,7 +1,7 @@
 /*
  * Kaspanet test mock — Copyright (C) 2026 KaspaSphere DAO
  * Free software under the GNU Affero General Public License v3 or later.
- * No warranty. Source: https://github.com/KaspaSphereDAO/kaspanet
+ * No warranty. Source: https://github.com/KaspaSphereDAO/kaspanet-internet
  */
 // Mock KNS indexer + IPFS gateway for offline end-to-end testing.
 "use strict";
