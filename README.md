@@ -48,7 +48,7 @@ upload to IPFS. See `kasparty-ipfs/PUBLISH.md`.
 
 1. Upload a static site folder to IPFS (Pinata Autonomous File Storage free tier works). Copy the CID.
 2. In your KNS domain profile (app.knsdomains.org, Kasware wallet), set
-   **Website** to `ipfs://<CID>`.
+   **Website** OR **Redirect URL** to `ipfs://<CID>`.
 3. Any Kaspanet client resolves `yourname.kas` → CID → content within minutes.
 
 ## Building the desktop client
